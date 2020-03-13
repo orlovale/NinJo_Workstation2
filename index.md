@@ -1,7 +1,3 @@
----
-layout: page
-title: Home
----
 
 ![NinJo Logo](img/Nl_big.png)
 
