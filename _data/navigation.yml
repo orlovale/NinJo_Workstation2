@@ -1,19 +1,26 @@
 # Site navigation links
 - title: Home
   url: /index/
+  identifier: home
   children:
   - title: Overview
     url: /overview/
+    menu.parent: home
   - title: Features
-    url: /features/
+    url: /features/    
+    menu.parent: home
   - title: Technical information
-    url: /technical/
+    url: /technical/    
+    menu.parent: home
   - title: Software editions
-    url: /editions/
+    url: /editions/    
+    menu.parent: home
   - title: Prices
     url: /prices/
+    menu.parent: home
   - Publications
     url: /pubs/
+    menu.parent: home
   
 - title: About
   url: /about/  
