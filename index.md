@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<img src="img/Nl_big.png" style="margin: 38px 0px 0px 0px;" alt="NinJo Logo">
 
-You can use the [editor on GitHub](https://github.com/orlovale/NinJo_Workstation2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# NinJo Workstation Software Highlights 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The NinJo Workstation System showing different types of meteorological data
 
-### Markdown
+The NinJo Workstation Software is an ultramodern meteorological workstation system with
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- multi-window technology,
+- layer-based visualisation of different data types,
+- easily integrated geographic map displays,
+- diagrams, such as meteograms, cross-sections and tephigrams,
+- monitoring of incoming data,
+- animation and graphical export capabilities,
+- interactive and automatic product generation,
+- a graphical editor to produce your own synoptic charts,
+- NƒL,  the NinJo Formula Language,
+- a flexible client/server architecture as well as
+- a high degree of configurability.
 
-```markdown
-Syntax highlighted code block
+NinJo is immediately usable without altering code. 
 
-# Header 1
-## Header 2
-### Header 3
+Are you interested in more? Please read the [Overview](overview.html) for a brief introduction.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orlovale/NinJo_Workstation2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+NinJo is the outcome of a successful [international collaboration](members.html) by various meteorological services with support from experienced IT companies.
