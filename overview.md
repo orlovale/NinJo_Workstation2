@@ -1,4 +1,4 @@
-# Overview
+
 
 NinJo is a modern all-purpose forecaster workstation system for processing and displaying meteorological data, from the integration of raw data to its usage for forecasting purposes. The multiwindow technology and specialised applications make NinJo the ideal tool not only for operational weather forecasting, but also for other applications where meteorological information plays a vital role for business.
 
