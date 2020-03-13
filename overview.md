@@ -15,7 +15,7 @@ NinJo also offers a sophisticated time control and animation tool to display the
 
 Apart from the interactive generation of products in the NinJo Client, you can also generate products automatically with NinJo Batch.
 
-The [features](features.html) of NinJo
+The [features](features) of NinJo
 
 - Multi-window technology
 - Layer-based visualisation
