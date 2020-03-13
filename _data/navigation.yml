@@ -20,7 +20,6 @@
     menu.parent: home
   - Publications
     url: /pubs/
-    menu.parent: home
   
 - title: About
   url: /about/  
