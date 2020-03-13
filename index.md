@@ -1,4 +1,4 @@
-{% include navbar.html %}
+
 
 ![NinJo Logo](img/Nl_big.png)
 
