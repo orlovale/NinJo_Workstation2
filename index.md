@@ -1,4 +1,7 @@
-<img src="img/Nl_big.png" style="margin: 38px 0px 0px 0px;" alt="NinJo Logo">
+---
+layout: page
+title: Home
+---
 
 ![NinJo Logo](img/Nl_big.png)
 
