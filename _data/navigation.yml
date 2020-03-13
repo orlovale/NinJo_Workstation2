@@ -4,6 +4,8 @@
   children:
   - title: Overview
     url: /overview/
+  - title: Features
+    url: /features/
   
 - title: About
   url: /about/  
