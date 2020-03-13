@@ -1,4 +1,7 @@
-
+---
+title: Overview
+layout: page
+---
 
 ![NinJo Logo](img/Nl_big.png)
 
