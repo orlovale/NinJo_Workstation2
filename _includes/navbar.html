@@ -1,0 +1,39 @@
+
+    <div class="topnav" id="myTopnav">
+        <a href="#home" id="homebtn" class="active">
+          <img id="logo" src="Nj_s.png" alt="" />
+        </a>
+        <div class="dropdown">
+          <button class="dropbtn">
+            Explore NinJo <i class="icon-down-open"></i>
+          </button>
+  
+          <div class="dropdown-content">
+            <a class="link" href="overview.html">Overview</a>
+            <a class="link" href="features.html">Features</a>
+            <a class="link" href="technicalInformation.html"
+              >Technical information</a
+            >
+            <a class="link" href="softwareEditions.html">Software editions</a>
+            <a class="link" href="prices.html">Prices</a>
+            <a class="link" href="publications.html">Publications</a>
+          </div>
+        </div>
+        <a href="about.html">About</a>
+        <a href="additionalSoftware.html">Additional software</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()"
+          >&#9776;</a
+        >
+  
+        <link rel="stylesheet" href="css/style.css" />
+        <script>
+          function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+              x.className += " responsive";
+            } else {
+              x.className = "topnav";
+            }
+          }
+        </script>
+      </div>
