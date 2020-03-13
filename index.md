@@ -1,5 +1,7 @@
 <img src="img/Nl_big.png" style="margin: 38px 0px 0px 0px;" alt="NinJo Logo">
 
+![NinJo Logo](img/Nl_big.png)
+
 # NinJo Workstation Software Highlights 
 
 The NinJo Workstation System showing different types of meteorological data
